@@ -1,0 +1,5 @@
+test:
+  url:
+    http://app-remote-prod:8080
+  url2:
+    http://app-remote-prod2:8080
